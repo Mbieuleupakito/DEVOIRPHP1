@@ -1,0 +1,11 @@
+*{
+    background-image: src("PHOTO1");
+    background-color: aqua;
+}
+a:hover{
+     border: 5px solid #f70505;
+     
+}
+.titre1{
+    background-color: #f70505;
+}
